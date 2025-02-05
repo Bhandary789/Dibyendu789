@@ -4,7 +4,7 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/soumikmukherjee2002/count.svg?" width="300" />
 </div>
-<h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> I am SOUMIK MUKHERJEE 😉🎯 <img src="CODE.gif" width="50" /> </h1>
+<h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> I am Dibyendu Bhandary 😉🎯 <img src="CODE.gif" width="50" /> </h1>
 
 <img src="0000.jpeg"  width="1920"  />
 
@@ -126,12 +126,12 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif"  width="1920"  />
 <img src="GAME.gif" width="1920" />
-- 📫 How to reach me *onlinekazama19@gmail.com*
+- 📫 How to reach me *dbhandary1998@gmail.com*
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif"  width="1920"  />
 
 <img src="CODEMY.png" width="1920" />
-<p> SOUMIK MUKHERJEE<img src="soumiklive.gif" width="20" alt="Live Image" /> </p>
+<p> Dibyendu Bhandary <img src="soumiklive.gif" width="20" alt="Live Image" /> </p>
 
 
 <!--<img src="monochrome_adventure_of_light_4k_hd_iris_fall-3840x2160.jpg"  width="1920"  /> -->
